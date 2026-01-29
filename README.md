@@ -8,3 +8,4 @@ The competition data comprises transliterations of over 8,000 Old Assyrian cunei
 *See also the Dataset Instructions for more on the formatting conventions used in these transliterations.*
 
 
+** Read and peruse throught the readme.md docs on this site https://github.com/Kaggle/kaggle-cli?tab=readme-ov-file **
